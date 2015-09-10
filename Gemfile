@@ -14,6 +14,7 @@ gem 'simple_form'
 gem 'devise'
 gem 'paperclip'
 gem 'masonry-rails'
+gem 'acts_as_votable'
 
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
